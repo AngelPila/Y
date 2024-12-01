@@ -1,0 +1,10 @@
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, LANZADOR_DE_CONJUROS, LUZ, MONSTRUO
+Trampa del Dragón Celestia, Impide ataques de monstruos con atributo Luz, LUZ, TRAMPA
+Rugido del Dragón, Incrementa el ataque de un Dragón., 800, DRAGON, atk, MAGICA
+Trampa del Dragón Celestial, Impide ataques de monstruos con atributo Luz., LUZ, TRAMPA
